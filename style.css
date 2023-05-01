@@ -1,0 +1,12 @@
+/*This is not HTML. It's CSS */
+html {
+
+  backround: red;
+color: gold;
+font-family: 'DynaPuff', cursive;
+font-weight: 400;
+}
+body{
+  width: 200px;
+  margin: auto;
+}   
